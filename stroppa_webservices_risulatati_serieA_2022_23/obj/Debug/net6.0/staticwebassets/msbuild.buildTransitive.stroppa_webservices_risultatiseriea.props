@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\stroppa_webservices_risultatiseriea.props" />
+</Project>
